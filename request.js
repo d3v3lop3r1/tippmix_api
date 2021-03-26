@@ -15,7 +15,7 @@ var options = {
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-site'
   },
-  body: JSON.stringify({"fieldValue":"","sportId":1,"competitionGroupId":0,"competitionId":0,"type":0,"date":"0001-01-01T00:00:00.000Z","hitsPerPage":400,"page":1,"minOdds":null,"maxOdds":null})
+  body: JSON.stringify({"fieldValue":"","sportId":1,"competitionGroupId":0,"competitionId":0,"type":0,"date":"0001-01-01T00:00:00.000Z","hitsPerPage":440,"page":1,"minOdds":null,"maxOdds":null})
 
 };
 request(options, function (error, response) {
