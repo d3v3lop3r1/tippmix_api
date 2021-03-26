@@ -1,0 +1,16 @@
+{
+  "name": "request-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "D3v3lop3r1",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
+    "request-response": "^0.1.2"
+  }
+}
